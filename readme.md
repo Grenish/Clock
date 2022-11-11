@@ -1,0 +1,1 @@
+Hello this is  a project of digital clock using JavaScript.
